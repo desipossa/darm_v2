@@ -258,10 +258,10 @@ function mainVisalSlidex() {
         creativeEffect: {
             prev: {
                 shadow: true,
-                translate: [0, "-20%", -1],
+                translate: ["-20%", 0, -1],
             },
             next: {
-                translate: [0, "100%", 2],
+                translate: ["100%", 0, 0],
             },
         },
         speed: 800,
